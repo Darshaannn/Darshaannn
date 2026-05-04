@@ -65,7 +65,8 @@ Open to internships and collaborations in Full Stack, Flutter, or AI/ML.
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshaannn&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshaannn&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshaannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshaannn&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Darshaannn&theme=tokyonight&hide_border=true)
