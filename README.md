@@ -60,13 +60,3 @@ Deepening my AI/ML knowledge — NLP, deep learning, transformer models. Buildin
 [darshangadhave10@gmail.com](mailto:darshangadhave10@gmail.com) · [LinkedIn](https://www.linkedin.com/in/darshan-gadhave-80ab97369/) · [GitHub](https://github.com/Darshaannn) · Mumbai, India
 
 Open to internships and collaborations in Full Stack, Flutter, or AI/ML.
-
----
-
-### GitHub Stats
-
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshaannn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshaannn&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Darshaannn&theme=tokyonight&hide_border=true)
