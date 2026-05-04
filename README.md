@@ -1,39 +1,71 @@
-﻿# Darshaan
+﻿# Darshan Gadhave
 
-![Profile Views](https://komarev.com/ghpvc/?username=Darshaannn&color=0D4715&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Darshaannn&color=1A5276&style=flat)
 
-**AI/ML Developer. I build intelligent apps and learn by doing.**
+**Full Stack Developer · Flutter · AI/ML · Mumbai**
 
-I work across the ML stack — from data preprocessing and model training in Python/TensorFlow, to building frontends in HTML/CSS and mobile apps in Flutter/Dart. Currently focused on NLP, deep learning, and building real projects that solve real problems.
+I build real products for real clients. Websites, mobile apps, AI tools — end to end, independently. Currently a Computer Engineering student at Government Polytechnic Mumbai (89%) while freelancing and shipping production apps.
+
+---
 
 ### What I Built
 
-[**IMDB Review Analysis**](https://github.com/Darshaannn/IMDB-Review-Analysis-)
-End-to-end NLP sentiment classifier using TensorFlow/Keras with a pretrained TF Hub embedding. Implemented full training/validation/test pipeline. Achieved robust accuracy on 50K IMDB reviews. Custom preprocessing, fine-tuning, and evaluation pipeline built from scratch.
+**[Tiffinity](https://github.com/Darshaannn/Tiffinity) — Food Delivery App**
+Full Flutter/Dart mobile app built from scratch. Complete user flows, modular UI components, state management, smooth navigation, and scalable architecture. Built for real-world deployment across Indian cities.
 
-[**Tiffinity**](https://github.com/Darshaannn/Tiffinity)
-Flutter app that connects students and working professionals with local mess/tiffin services across India. Built with Dart, contributes to solving the daily food problem for thousands of people in Indian cities.
+**[Innvento](https://github.com/Darshaannn/Innvento) — AI Dementia Screening Assistant**
+AI-powered health assistant built in Python. Uses intelligent automation logic for early dementia screening and preliminary health assessment. Practical AI applied to a real healthcare problem.
 
-[**Netflix Clone**](https://github.com/Darshaannn/Netflix-Clone-)
-Pixel-perfect clone of the Netflix homepage using only HTML and CSS. Focused on layout precision, responsive design principles, and attention to UI detail.
+**[IMDB Review Analysis](https://github.com/Darshaannn/IMDB-Review-Analysis-) — NLP Sentiment Classifier**
+End-to-end NLP pipeline using TensorFlow/Keras with pretrained TF Hub embeddings fine-tuned on 50K IMDB reviews. Full training/validation/test pipeline with robust evaluation metrics.
 
-[**Comeback-**](https://github.com/Darshaannn/Comeback-)
-Creative HTML project — built to learn and ship fast.
+**[Netflix Clone](https://github.com/Darshaannn/Netflix-Clone-) — Frontend Clone**
+Pixel-perfect Netflix homepage clone using HTML and CSS. Focused on layout precision, responsive design, and UI detail.
+
+**Client Websites — Aston Hostel, Aston High School, Aykyam**
+Responsive, production-deployed websites built with HTML, CSS, and JavaScript. Clean UI, mobile-compatible, and live for real businesses.
+
+---
 
 ### What I Actually Know
 
-**Machine Learning & NLP.** Model training pipelines in TensorFlow/Keras, pretrained embeddings (TF Hub), sentiment classification, overfitting control, train/val/test splits, evaluation metrics.
+**Full Stack.** React, HTML5, CSS3, JavaScript — not just tutorials. 4 client websites built and deployed to production via Vercel. Zero-downtime deployments, responsive design, clean UI.
 
-**Frontend.** HTML5, CSS3 — layouts, responsiveness, pixel-level UI work. Not just tutorials — actual clones and real projects.
+**Mobile.** Flutter and Dart — built Tiffinity from scratch with real architecture: state management, modular components, performance-optimized screens.
 
-**Mobile.** Flutter and Dart — building cross-platform apps that solve real problems for real users.
+**AI/ML & Python.** TensorFlow, Keras, NLP pipelines, pretrained embeddings, sentiment classification. Also built an AI assistant for healthcare (Innvento).
 
-**Tools.** Python, Jupyter Notebooks, Git, GitHub CLI.
+**Tools.** Git, GitHub, Vercel, Figma, Adobe Photoshop, VS Code, MySQL, MongoDB.
+
+**Client work.** Owned full client relationships independently — requirement gathering, development, QA, delivery, post-launch. No hand-holding.
+
+---
+
+### Experience
+
+**Xpand Ventures** — Website Developer & Social Media Executive *(Dec 2025 – Apr 2026)*
+Built 4 websites from scratch. Owned 1 full client relationship independently. Contributed to an AI-based automated calling system. Managed 2 brand social media accounts end-to-end.
+
+**Freelance** — Website & App Developer *(Feb 2026 – Present)*
+2 active clients. Building and maintaining production websites. Full social media management. All client communication and delivery handled independently.
+
+---
 
 ### Currently
 
-Learning Deep Learning fundamentals deeply — CNNs, RNNs, Transformers. Building more projects that combine ML with real-world applications. Open to collaborating on AI/ML or Flutter projects.
+Deepening my AI/ML knowledge — NLP, deep learning, transformer models. Building more projects at the intersection of mobile and AI. Open to internships, collaborations, and interesting problems.
 
 ### Contact
 
-[GitHub](https://github.com/Darshaannn) · Open to internships, collaborations, and interesting projects.
+[darshangadhave10@gmail.com](mailto:darshangadhave10@gmail.com) · [LinkedIn](https://www.linkedin.com/in/darshan-gadhave-80ab97369/) · [GitHub](https://github.com/Darshaannn) · Mumbai, India
+
+Open to internships and collaborations in Full Stack, Flutter, or AI/ML.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshaannn&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshaannn&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
