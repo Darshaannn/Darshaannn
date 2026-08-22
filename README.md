@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Darshaannn&color=1A5276&style=flat)
 
-**Full Stack Developer · Flutter · AI/ML · Mumbai**
+**AI & Data Science Student |  Python · Machine Learning · Software Development**
 
-I build real products for real clients. Websites, mobile apps, AI tools — end to end, independently. Currently a Computer Engineering student at Government Polytechnic Mumbai (89%) while freelancing and shipping production apps.
+B.E AI & Data Science student at Rajiv Gandhi Institute of Technology with a Diploma in Computer Engineering from Government Polytechnic Mumbai. Currently building practical machine-learning projects using Python, Pandas, NumPy and scikit-learn, backed by professional experience developing and deploying production software.
 
 ---
 
@@ -19,8 +19,6 @@ AI-powered health assistant built in Python. Uses intelligent automation logic f
 **[IMDB Review Analysis](https://github.com/Darshaannn/IMDB-Review-Analysis-) — NLP Sentiment Classifier**
 End-to-end NLP pipeline using TensorFlow/Keras with pretrained TF Hub embeddings fine-tuned on 50K IMDB reviews. Full training/validation/test pipeline with robust evaluation metrics.
 
-**[Netflix Clone](https://github.com/Darshaannn/Netflix-Clone-) — Frontend Clone**
-Pixel-perfect Netflix homepage clone using HTML and CSS. Focused on layout precision, responsive design, and UI detail.
 
 **Client Websites — Aston Hostel, Aston High School, Aykyam**
 Responsive, production-deployed websites built with HTML, CSS, and JavaScript. Clean UI, mobile-compatible, and live for real businesses.
@@ -43,8 +41,8 @@ Responsive, production-deployed websites built with HTML, CSS, and JavaScript. C
 
 ### Experience
 
-**Xpand Ventures** — Website Developer & Social Media Executive *(Dec 2025 – Apr 2026)*
-Built 4 websites from scratch. Owned 1 full client relationship independently. Contributed to an AI-based automated calling system. Managed 2 brand social media accounts end-to-end.
+**Xpand Ventures** — Website Developer & Social Media Executive *(Dec 2025 – Present)*
+Building and deploying production web applications, working with client requirements, APIs, version control and AI-driven automation workflows. Contributed to an AI-based automated calling system alongside production client development.
 
 **Freelance** — Website & App Developer *(Feb 2026 – Present)*
 2 active clients. Building and maintaining production websites. Full social media management. All client communication and delivery handled independently.
@@ -53,7 +51,11 @@ Built 4 websites from scratch. Owned 1 full client relationship independently. C
 
 ### Currently
 
-Deepening my AI/ML knowledge — NLP, deep learning, transformer models. Building more projects at the intersection of mobile and AI. Open to internships, collaborations, and interesting problems.
+Currently building: SmartDeal - an ML-powered used-car price intelligence system.
+
+Currently learning: Machine Learning, scikit-learn, feature engineering, model evaluation and practical data analysis.
+
+Exploring: Machine Learning, Applied AI, Data Science and Software Engineering internship opportunities.
 
 ### Contact
 
