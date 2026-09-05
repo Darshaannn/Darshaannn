@@ -11,7 +11,7 @@ Currently exploring **Machine Learning, Data Science, Applied AI and Software De
 
 ---
 
-##  Featured Project — 
+##  Featured Project 
 
 ### 🚗 SmartDeal
 
