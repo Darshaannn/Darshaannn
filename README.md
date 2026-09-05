@@ -1,64 +1,112 @@
-﻿# Darshan Gadhave
+# Hi, I'm Darshan Gadhave 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Darshaannn&color=1A5276&style=flat)
 
-**AI & Data Science Student |  Python · Machine Learning · Software Development**
 
-B.E AI & Data Science student at Rajiv Gandhi Institute of Technology with a Diploma in Computer Engineering from Government Polytechnic Mumbai. Currently building practical machine-learning projects using Python, Pandas, NumPy and scikit-learn, backed by professional experience developing and deploying production software.
+**AI & Data Science Student | Python · Machine Learning · Data Science · Software Development**
 
----
+I’m a B.E AI & Data Science student at **Rajiv Gandhi Institute of Technology, Mumbai**, with a Diploma in Computer Engineering from **Government Polytechnic Mumbai**.
 
-### What I Built
-
-**[Tiffinity](https://github.com/Darshaannn/Tiffinity) — Food Delivery App**
-Full Flutter/Dart mobile app built from scratch. Complete user flows, modular UI components, state management, smooth navigation, and scalable architecture. Built for real-world deployment across Indian cities.
-
-**[Innvento](https://github.com/Darshaannn/Innvento) — AI Dementia Screening Assistant**
-AI-powered health assistant built in Python. Uses intelligent automation logic for early dementia screening and preliminary health assessment. Practical AI applied to a real healthcare problem.
-
-**[IMDB Review Analysis](https://github.com/Darshaannn/IMDB-Review-Analysis-) — NLP Sentiment Classifier**
-End-to-end NLP pipeline using TensorFlow/Keras with pretrained TF Hub embeddings fine-tuned on 50K IMDB reviews. Full training/validation/test pipeline with robust evaluation metrics.
-
-
-**Client Websites — Aston Hostel, Aston High School, Aykyam**
-Responsive, production-deployed websites built with HTML, CSS, and JavaScript. Clean UI, mobile-compatible, and live for real businesses.
+Currently exploring **Machine Learning, Data Science, Applied AI and Software Development** opportunities.
 
 ---
 
-### What I Actually Know
+##  Featured Project — 
 
-**Full Stack.** React, HTML5, CSS3, JavaScript — not just tutorials. 4 client websites built and deployed to production via Vercel. Zero-downtime deployments, responsive design, clean UI.
+### 🚗 SmartDeal
 
-**Mobile.** Flutter and Dart — built Tiffinity from scratch with real architecture: state management, modular components, performance-optimized screens.
+#### ML-Powered Used-Car Price & Deal Intelligence
 
-**AI/ML & Python.** TensorFlow, Keras, NLP pipelines, pretrained embeddings, sentiment classification. Also built an AI assistant for healthcare (Innvento).
+SmartDeal estimates the fair price of a used car using machine learning and compares it with the seller's asking price to classify the deal.
 
-**Tools.** Git, GitHub, Vercel, Figma, Adobe Photoshop, VS Code, MySQL, MongoDB.
+**What I worked on:**
 
-**Client work.** Owned full client relationships independently — requirement gathering, development, QA, delivery, post-launch. No hand-holding.
+- Data cleaning and preprocessing
+- Train/test splitting
+- Linear Regression baseline
+- Random Forest Regressor
+- Model evaluation using MAE, RMSE, R² and MAPE
+- Scikit-learn preprocessing pipeline
+- Streamlit interface
+- Model serialization using Joblib
+
+**Random Forest Performance**
+
+`R²: 0.8992` · `MAPE: 12.58%`
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Random Forest · Streamlit · Joblib
+
+🔗 [Live Demo](https://samrt-deal.streamlit.app/)  
+💻 [View Repository](https://github.com/Darshaannn/Smart-Deal)
 
 ---
 
-### Experience
+## 💻 Development Work
 
-**Xpand Ventures** — Website Developer & Social Media Executive *(Dec 2025 – Present)*
-Building and deploying production web applications, working with client requirements, APIs, version control and AI-driven automation workflows. Contributed to an AI-based automated calling system alongside production client development.
+Alongside learning AI/ML, I have worked on real-world websites and client projects involving responsive design, frontend development, deployment and ongoing website improvements.
 
-**Freelance** — Website & App Developer *(Feb 2026 – Present)*
-2 active clients. Building and maintaining production websites. Full social media management. All client communication and delivery handled independently.
+Some of the projects I have worked on include:
+
+- **Dighe Kulkarni** — Organisation Advisory Website
+- **JM Medicose** — Medical Products & Treatments Website
+- **Bedrock Digital** — Digital Agency Website
+- **Aston High School** — School Website
+- **Amor Eventz** — Event Management Website
+- **Edzio Global** — Education / Study Abroad Landing Website
+
+My work has involved **HTML, CSS, JavaScript, React, responsive development, SEO implementation, deployment and client-driven changes.**
 
 ---
 
-### Currently
+## 🛠️ Tech I'm Working With
 
-Currently building: SmartDeal - an ML-powered used-car price intelligence system.
+**Programming**
 
-Currently learning: Machine Learning, scikit-learn, feature engineering, model evaluation and practical data analysis.
+`Python` `C++` `Java`
 
-Exploring: Machine Learning, Applied AI, Data Science and Software Engineering internship opportunities.
+**Machine Learning & Data**
 
-### Contact
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Data Preprocessing` `Model Evaluation`
 
-[darshangadhave10@gmail.com](mailto:darshangadhave10@gmail.com) · [LinkedIn](https://www.linkedin.com/in/darshan-gadhave-80ab97369/) · [GitHub](https://github.com/Darshaannn) · Mumbai, India
+**Web Development**
 
-Open to internships and collaborations in Full Stack, Flutter, or AI/ML.
+`React` `HTML` `CSS` `JavaScript`
+
+**Databases & Tools**
+
+`MySQL` `MongoDB` `Git` `GitHub`
+
+---
+
+## 💼 Experience
+
+### Xpand Ventures
+**Website Developer & Social Media Executive**  
+*Dec 2025 – Present*
+
+Working on real client projects involving website development, website maintenance, client requirements, digital content and project execution.
+
+### Freelance
+**Website & Application Developer**  
+*Feb 2026 – Present*
+
+Working directly on website and application projects, from understanding requirements to development, revisions and delivery.
+
+---
+
+#### I’m currently open to internship opportunities in:
+
+**Machine Learning · AI · Data Science · Python Development · Software Development**
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [darshangadhave10@gmail.com](mailto:darshangadhave10@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/darshan-gadhave-80ab97369](https://www.linkedin.com/in/darshan-gadhave-80ab97369/)
+
+💻 **GitHub:** [github.com/Darshaannn](https://github.com/Darshaannn)
+
+📍 Mumbai, India
+
